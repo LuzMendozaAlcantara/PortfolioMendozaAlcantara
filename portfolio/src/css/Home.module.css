@@ -1,0 +1,21 @@
+h1 {
+    letter-spacing: 0.5px;
+}
+
+p{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    padding-right: 5rem;
+    padding-left: 5rem;
+}
+
+.button{
+    background-color: green;
+    color: white;
+    margin-top: 2rem;
+    padding: 0.4rem;
+    border-radius: 2rem;
+    border: 3px solid black;
+    cursor: pointer;
+}

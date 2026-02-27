@@ -1,0 +1,56 @@
+.container{
+    max-width: 900px;
+    min-height: 100vh;
+    background-color: rgb(159, 218, 159);
+    margin: 0 auto; 
+    text-align: center;
+}
+
+.button1{
+    background-color: green;
+    color: white;
+    padding: 0.3rem;
+    border-radius: 1rem;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.card {
+    background-color: #e5e3e3; 
+    border-radius: 12px;      
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+.card img{
+    height: 80%;
+    width: 70%;
+}
+
+.proydescript{
+    padding-left: 8rem;
+    padding-right: 8rem;
+}
+
+.link1{
+    width: 5rem;
+    background-color: lightskyblue;
+    color: black;
+    padding: 0.1rem;
+    margin: 1rem auto;
+    border-radius: 1rem;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.link2{
+    height: 1.5rem;
+    width: 5rem;
+    background-color: white;
+    color: black;
+    padding: 0.1rem;
+    margin: 1rem auto;
+    border-radius: 1rem;
+    border: 2px solid black;
+    cursor: pointer;
+}
