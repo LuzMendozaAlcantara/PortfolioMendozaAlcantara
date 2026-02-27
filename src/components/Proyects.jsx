@@ -25,7 +25,7 @@ const Proyects=()=>{
             image: vitalink,
             description: "Proyecto academico final grupal de desarrollo web sobre primeros auxilios presentado a empresas de la red de la Fundacion Forge. Me trabajo fue la gestión de la base de datos de cada caso de emergencia mediante Postman; el diseño y maquetado de las cards en la página principal y la creación de vistas individuales interactivas para cada caso, garantizando una experiencia de usuario sencilla y de facil acceso y un diseño visual consistente.",
             github: "https://github.com/LuzMendozaAlcantara/Vitalink",
-            demo: "https://grupo4-proyecto-final-client.vercel.app/home"
+            demo: "https://grupo4-proyecto-final-client.vercel.app/"
         }
     ];
 
